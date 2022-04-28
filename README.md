@@ -19,13 +19,13 @@
 
 
 ## [Ozon Tech](http://ozon.dev/)
-Апрель 2021 – по настоящее время  
-Старший специалист по тестированию
-- Успешно обеспечил внедрение TMS Allure TestOps в процесс тестирования
-- Настроил автоматическое нагрузочное тестирование сервисов с помощью Яндекс.Танка
-- Менторил джуна в команду тестирования
-- Разработал архитектуру для тестирования DS и ML проектов
-- Участвовал в разработке фреймворка для генерации кода тестов
+Apr 2021 – Current Time  
+Senior Quality Assurance Specialist
+- Successfully integrated Allure TestOps TMS into testing process
+- Configured automatic load testing of services with Yandex.Tank
+- Mentored of new QA members
+- Developed the architecture for testing DS and ML projects
+- Took part in developing the test code generation utility
 
 `| Golang | gRPC-Gateway | Triton Inference Server | pytest | GitLab CI |`
 
